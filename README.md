@@ -1,7 +1,4 @@
-This repository contains the data files for Apache Pig Tutorial hosted on www.rohitmenon.com.
+This repository contains the data files for Apache Pig Tutorial
 
 
-Link to Apache Pig Tutorial - Part 1 - http://www.rohitmenon.com/index.php/apache-pig-tutorial-part-1/
-
-
-Link to Apache Pig Tutorial - Part 2 - http://www.rohitmenon.com/index.php/apache-pig-tutorial-part-2/
+http://bipin0007.blogspot.in/2016/04/apache-pig-is-tool-used-to-analyze.html
